@@ -1,0 +1,4 @@
+﻿model,R2
+overall OLS (no segment),0.0005
++ segment,0.7018
++ segment + interactions,0.7265

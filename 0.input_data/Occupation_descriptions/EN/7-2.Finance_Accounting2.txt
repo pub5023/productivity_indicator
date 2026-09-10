@@ -1,0 +1,61 @@
+# Finance and Accounting Roles  
+Restructured Version: Summarization → Instruction Documents → Material Creation
+
+Characteristics: Their day-to-day work involves organizing information such as accounting standards, tax systems, audits, and internal financial figures into a form that can be used for decision-making; embedding that information into operations; and creating and updating documents to fulfill accountability to management, auditors, and related departments.
+
+Examples:
+- Finance Manager
+- Accounting Staff
+- Management Accounting Specialist
+- Consolidated Financial Reporting Specialist
+- Tax Specialist
+- Audit Liaison
+
+---
+
+# Key Tasks
+
+#1 Document Summarization and Issue Structuring: Extracting Key Points from Regulations, External Information, and Internal Data
+
+Finance and accounting professionals need to read information from multiple sources, such as accounting standards and tax reforms, audit findings, disclosures by peer companies, and internal monthly and quarterly figures, and organize it into “Conclusion → Evidence → Impact → Proposed Response” so that stakeholders can make decisions quickly.
+
+## Specific Work Activities
+
+- Extract and organize key points regarding changes, effective dates, and transitional measures for accounting standards and tax reforms.
+- Extract and classify issues, such as risks and required actions, from audit findings and regulatory guidance.
+- Summarize implications for the company based on disclosures by peer companies, such as notes, accounting policies, and KPIs.
+- Break down factors behind internal financial figures, such as PL, BS, and CF, as well as budget-versus-actual and year-on-year differences, and express the key issues concisely.
+- Identify the scope of impact, including accounts, notes, internal controls, business processes, and systems.
+- Organize sources, such as reference sections, links, and supporting materials, and store them in a form that can withstand accountability requirements.
+
+---
+
+#2 Creating Instruction Documents and Designing Operations: Procedure Manuals, Checklists, and Rule Development
+
+Finance and accounting professionals need to prepare operational documents, including judgment criteria, exception handling, and evidence requirements, so that practical tasks such as closing, financial reporting, expense processing, payments, and revenue recognition can be performed completely and at a consistent level of quality without depending on individual experience.
+
+## Specific Work Activities
+
+- Define the scope of target operations, such as monthly closing, expense reimbursement, payments, revenue recognition, fixed assets, and inventory.
+- Organize standard flows for normal processing and exception flows for cases such as returns, additional supporting documents, and special-case judgments.
+- Create and revise operating procedure manuals, covering input, work procedures, output, and key precautions.
+- Develop closing checklists, including required tasks, deadlines, deliverables, and review points.
+- Develop lists of supporting document requirements, including required documents, storage locations, retention periods, and audit logs.
+- Develop account, tax category, and processing rule tables, including judgment criteria, concrete examples, and prohibited examples.
+- Create role assignments, or RACI matrices, and schedules, or WBS, and align them with related departments.
+
+---
+
+#3 Creating and Explaining Materials: Reporting and Decision Support for Management, Auditors, and Related Departments
+
+Finance and accounting professionals need to summarize changes in financial figures and accounting issues in a form that management, auditors, and related departments can understand at a glance and use for decision-making, while also preparing explanations including anticipated Q&A.
+
+## Specific Work Activities
+
+- For management, visualize the key drivers of changes in PL, BS, and CF, including budget-versus-actual and year-on-year differences, through factor analysis.
+- Organize forecasts and scenarios, such as upside and downside cases, together with their underlying assumptions.
+- Document the conclusions and evidence for key issues, such as accounting policies, notes, tax matters, and audit issues.
+- Clearly state risks and countermeasures, including options, recommended actions, deadlines, and owners, and translate them into next actions.
+- Create and update explanatory memos for auditors, including issues, evidence, audit trails, and response policies.
+- Prepare anticipated Q&A, such as “Why did it increase or decrease?”, “What is the evidence?”, “How will recurrence be prevented?”, and “How far does the impact extend?”
+- Confirm the finalization of figures, the validity of assumptions, and consistency of notes, then reflect review feedback and finalize the materials.

@@ -1,0 +1,9 @@
+﻿term,coef,p
+Intercept,0.2908,0.0
+C(task)[T.presentation],-0.0304,0.5443
+C(task)[T.summary],0.101,0.0206
+C(segment)[T.B],-0.1941,0.0
+C(segment)[T.C],-0.2297,0.0
+importance,-0.1128,0.0436
+importance:C(task)[T.presentation],-0.0053,0.9388
+importance:C(task)[T.summary],-0.084,0.1842

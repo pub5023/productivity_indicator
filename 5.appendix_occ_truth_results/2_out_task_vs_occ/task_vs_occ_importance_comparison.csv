@@ -1,0 +1,4 @@
+﻿term,coef_tasktruth,p_tasktruth,coef_occtruth_bm,p_occtruth_bm
+importance,-0.0352,0.4301,-0.1128,0.0436
+importance:C(task)[T.summary],0.0007,0.9891,-0.084,0.1842
+importance:C(task)[T.presentation],-0.0225,0.7019,-0.0053,0.9388

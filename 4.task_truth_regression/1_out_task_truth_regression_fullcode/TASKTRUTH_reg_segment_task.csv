@@ -1,0 +1,6 @@
+﻿term,coef,p
+Intercept,0.2818,0.0
+C(segment)[T.B],-0.1319,0.0
+C(segment)[T.C],-0.2297,0.0
+C(task)[T.presentation],-0.0162,0.2595
+C(task)[T.summary],-0.2629,0.0

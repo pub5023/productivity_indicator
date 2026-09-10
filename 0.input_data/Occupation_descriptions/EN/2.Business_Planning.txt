@@ -1,0 +1,57 @@
+# Planning and Marketing Roles
+
+Characteristics: Their day-to-day work involves organizing market and customer information, creating planning proposals and instructions for initiatives, and preparing presentation materials for internal and external stakeholders.
+
+Examples:
+- Business Planning
+- Product Planning
+- Marketing Specialist
+- Public Relations / PR Specialist
+
+-----------------------
+
+# Key Tasks
+
+#1 Article Summarization: Information Gathering and Input Organization
+
+Planning and marketing professionals need to organize market information, customer trends, and competitive intelligence required for decision-making in a short period of time, and restructure it into a form that can be used for planning and marketing initiatives.
+
+## Specific Work Activities
+
+- Read industry news, research reports, social media trends, customer surveys, and other materials; extract only the parts relevant to the company’s planning activities; and summarize them into one to two pages.
+- Research competitors’ new products, campaigns, and advertising initiatives, and organize their strengths, weaknesses, and points of differentiation.
+- Summarize data such as market size, growth rates, and target customer attributes in a concise format while visualizing them in graphs.
+- Read long research documents of 100 to 200 pages and restructure them into key-point materials that can be used in planning meetings.
+- Organize information into the structure of “Conclusion → Evidence → Insights / Implications,” leaving only the points directly linked to the direction of the plan.
+
+---
+
+#2 Creating Instruction Documents: Design and Guidance for Planning Execution
+
+Planning and marketing professionals create documents that clearly communicate to internal and external stakeholders “what should be executed, by when, and how.”
+
+## Specific Work Activities
+
+- Organize the intent and target audience of a new product plan, and define them in text and diagrams as a planning brief.
+- Organize current customer behavior and purchasing processes, and create a customer journey map that visualizes key issues.
+- Clarify the objectives and KPIs of the plan, and organize the priorities and execution steps of each initiative in bullet points.
+- Create creative briefs for advertising agencies and production companies, including tone and manner, messaging, and material requirements.
+- Break down project tasks and list schedules and owners as a WBS, or Work Breakdown Structure.
+- Organize the roles of related departments, such as Sales, Development, and Customer Success, and clarify responsibilities using a RACI matrix.
+- Describe tasks to be requested from internal members in the format of “who does what by when” as a procedure manual.
+
+---
+
+#3 Creating Presentation Materials: Planning Proposals and Reports for Internal and External Stakeholders
+
+Because the deliverables of planning and marketing roles are ultimately presented as slide decks to executives, sales departments, and external partners, creating presentation materials is an extremely important task.
+
+## Specific Work Activities
+
+- Build a logical storyline based on the background, issues, insights, and proposed plan: background → issue → implications → proposal → impact.
+- Create slides for executives that are conclusion-first, with one message per slide.
+- Visualize research data and the effects of initiatives in graphs, and clearly state the “So What,” or what matters most, on each slide.
+- Translate the proposed plan into concrete execution steps, required resources, budget, and expected impact, organizing it in a form that makes decision-making easier.
+- Adjust expressions, color schemes, and wording to match the company culture and executives’ preferences.
+- Before the presentation, prepare anticipated questions and draft answers, or Q&A materials, and review them with supervisors and relevant stakeholders.
+- Practice the speaking order, key points to emphasize, and timing of slide transitions in preparation for the presentation.

@@ -1,0 +1,7 @@
+term,coef,p
+const,0.1954,0.0
+residual_per_1k_centered,0.007,0.6704
+scope_per_1k_centered,-0.0065,0.8556
+caution_per_1k_centered,-0.0388,0.2963
+segB,-0.1296,0.0088
+segC,-0.2376,0.0022

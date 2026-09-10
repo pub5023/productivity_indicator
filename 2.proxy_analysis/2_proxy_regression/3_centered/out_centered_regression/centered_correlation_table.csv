@@ -1,0 +1,5 @@
+x,n,pearson_r,pearson_p,spearman_r,spearman_p
+residual_per_1k,15,0.0703,0.8035,0.0107,0.9698
+residual_per_1k_centered,15,-0.134,0.6339,-0.2429,0.3831
+proxy_total,15,-0.0218,0.9386,-0.0964,0.7325
+proxy_total_centered,15,-0.265,0.3398,-0.4393,0.1014

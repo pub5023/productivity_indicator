@@ -1,0 +1,5 @@
+﻿x,n,pearson_r,pearson_p,spearman_r,spearman_p
+residual_per_1k,15,0.0703,0.8035,0.0107,0.9698
+scope_per_1k,15,-0.1295,0.6454,-0.0464,0.8695
+caution_per_1k,15,-0.0994,0.7246,-0.0036,0.9899
+proxy_total,15,-0.0218,0.9386,-0.0964,0.7325

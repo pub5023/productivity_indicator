@@ -1,0 +1,59 @@
+# Project Manager Roles
+
+Characteristics: Their day-to-day work involves managing project progress, organizing requirements, coordinating stakeholders, and creating instruction documents and reporting materials to complete deliverables within deadlines.
+
+Examples:
+- IT Project Manager
+- System Implementation Project Manager
+- Web / App Development Project Manager
+- Business Transformation Project Manager
+
+-----------------------
+
+# Key Tasks
+
+---
+
+#1 Article Summarization: Information Gathering and Input Organization
+
+Project managers need to organize information required for project decision-making in a short period of time and restructure it into a form that stakeholders can easily understand.
+
+## Specific Work Activities
+
+- Read technology trends, industry news, and vendor materials related to the project; extract only the parts that affect the project; and summarize them into one to two pages.
+- Research success and failure cases from similar projects, and organize risks, success factors, and applicable points.
+- Summarize data related to system requirements and business requirements, such as market size, number of users, and expected system load, in a concise format while visualizing them in graphs.
+- Read long documents provided by clients or internal teams, such as requirements documents, specifications, and research materials, and restructure them into key-point materials that project members can quickly understand.
+- Organize information into the structure of “Conclusion → Evidence → Implications for the Project,” leaving only the points necessary for decision-making.
+
+---
+
+#2 Creating Instruction Documents: Design and Guidance for Project Execution
+
+Project managers clearly document “what needs to be done, by whom, by when, and how” in order to move projects forward smoothly.
+
+## Specific Work Activities
+
+- Organize client requirements and clarify them in text and diagrams as a requirements definition document, including functional and non-functional requirements.
+- Conduct interviews to understand the current business process flow, or As-Is state, and visualize it while marking issues in red.
+- Create the To-Be business process flow, and organize improvement points and required system functions in bullet points.
+- Break down project tasks and list schedules and owners as a WBS, or Work Breakdown Structure.
+- Organize the roles of stakeholders, such as Development, Infrastructure, QA, and the client, and clarify responsibilities using a RACI matrix.
+- Create detailed work instructions for vendors and development teams, including specifications, deadlines, and deliverable formats.
+- Create a risk and issue management log, and operate it as a management document that clearly defines countermeasures, owners, and deadlines.
+
+---
+
+#3 Creating Presentation Materials: Client Reporting and Proposals
+
+Project managers create clear presentation materials to explain project progress, issues, and countermeasures to clients and executives.
+
+## Specific Work Activities
+
+- Build a logical storyline based on the project background, objectives, progress, and issues: background → current status → issues → countermeasures → next steps.
+- Create slides for executives that are conclusion-first, with one message per slide.
+- Visualize progress rates, delay status, risk status, and other information in graphs, and clearly state the “So What,” or what matters most, on each slide.
+- Translate countermeasures for issues into concrete execution steps, required resources, and scope of impact, organizing them in a form that makes decision-making easier.
+- Adjust expressions, color schemes, and wording to match the client’s culture and decision-making style.
+- Before the reporting meeting, prepare anticipated questions and draft answers, or Q&A materials, and review them within the team.
+- Practice the speaking order, key points to emphasize, and timing of slide transitions in preparation for the presentation.

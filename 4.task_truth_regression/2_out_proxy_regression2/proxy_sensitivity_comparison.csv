@@ -1,0 +1,4 @@
+﻿spec,proxy_term,proxy_coef,proxy_p,missing_coef,missing_p
+Complete-case,proxy_total,-0.028,0.0,,
+All models: proxy0 + missing,proxy0,-0.0277,0.0,0.044,0.4077
+All models: seg-mean + missing,proxy_segmean,-0.0313,0.0,0.0463,0.3766

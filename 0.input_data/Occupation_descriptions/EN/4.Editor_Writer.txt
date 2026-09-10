@@ -1,0 +1,58 @@
+# Editor, Writer, and Researcher Roles
+
+Characteristics: Their day-to-day work involves summarizing articles, creating content outlines, organizing information, and turning it into materials.
+
+Examples:
+- Editor, at a publishing company or web media company
+- Researcher
+- Technical Writer
+
+-----------------------
+
+# Key Tasks
+
+---
+
+#1 Article Summarization: Information Gathering and Input Organization
+
+Editors, writers, and researchers regularly summarize and organize information in order to read through large volumes of material and restructure it into a form that is easy for readers to understand.
+
+## Specific Work Activities
+
+- Read news articles, specialized books, academic papers, interview transcripts, and other materials; extract only the parts needed for articles or manuscripts; and summarize them into one to two pages.
+- Research articles from competing media outlets and similar themes, and organize key points while comparing angles, structures, and arguments.
+- Interpret research data and statistical information, and convert them into concise summaries that readers can easily understand while visualizing them in graphs.
+- Read 100- to 300-page documents, extract only the key points needed for the article structure, and summarize them into an outline memo.
+- Organize information into the structure of “Conclusion → Evidence → Value for the Reader,” leaving only the points directly linked to the direction of the article.
+
+---
+
+#2 Creating Instruction Documents: Design and Guidance for Production Management
+
+Editors, writers, and researchers create instruction documents and outlines for stakeholders in order to ensure smooth article production and research work.
+
+## Specific Work Activities
+
+- Organize the article’s theme, objective, and target readership, and clarify them in text and diagrams as a proposal.
+- Organize information on interview subjects and create interview request documents, including the purpose, draft questions, and required materials.
+- Create article outlines, including proposed titles, headings, and section structures, and prepare them in a form that can be shared in editorial meetings.
+- Create writing guidelines for writers, including tone and manner, writing style, citation rules, and prohibited items.
+- Break down the production schedule and list deadlines, owners, and request details as a WBS, or Work Breakdown Structure.
+- Organize the roles of photographers, illustrators, and designers, and create production instructions that clearly define required materials and delivery formats.
+- Organize proofreading and fact-checking perspectives, and describe them as a checklist in the format of “who checks what by when.”
+
+---
+
+#3 Creating Presentation Materials: Proposals and Explanations for Editorial Meetings
+
+Editors, writers, and researchers create presentation materials for editorial meetings and clients in order to get proposals approved.
+
+## Specific Work Activities
+
+- Build a logical storyline based on the proposal background, reader needs, and competitive landscape: background → issue → proposal intent → outline → expected impact.
+- Create slides for editors-in-chief and clients that are conclusion-first, with one message per slide.
+- Visualize reader data and access analytics in graphs, and clearly state the “So What,” or what matters most, on each slide.
+- Translate the proposal into article structure, required materials, production setup, and schedule, organizing it in a form that makes approval easier.
+- Adjust expressions, color schemes, and wording to match the media outlet’s tone and the client’s brand.
+- Before the presentation, prepare anticipated questions and draft answers, or Q&A materials, and review them within the editorial team.
+- Practice the speaking order, key points to emphasize, and timing of slide transitions in preparation for the presentation.

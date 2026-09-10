@@ -1,0 +1,7 @@
+baseline,task,slope
+BM,summary,0.0199
+BM,instruction,0.1115
+BM,presentation,0.0918
+ref4,summary,0.1795
+ref4,instruction,0.2786
+ref4,presentation,0.0372

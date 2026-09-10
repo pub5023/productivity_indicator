@@ -1,0 +1,57 @@
+# Consulting-Related Occupations
+
+Characteristics: Their day-to-day work involves summarizing client information, creating instruction documents such as To-Be processes and requirements definitions, and preparing presentation materials.
+
+Examples:
+- Management Consultant
+- IT Consultant
+- Business Process Improvement Consultant
+- Strategy Analyst
+
+-----------------------
+
+## Key Tasks
+
+#1 Article Summarization: Information Gathering and Input Organization
+
+Management consultants need to understand large volumes of information in a short period of time and restructure it into a form that can be used for decision-making.
+
+## Specific Work Activities
+
+- Read industry news, research reports, government statistics, and other materials; extract only the parts relevant to the client; and condense them into one to two pages.
+- Organize competitors’ activities and summarize the key points from the perspectives of threats and opportunities.
+- Convert figures such as market size, growth rates, and customer needs into concise summaries while visualizing them in graphs.
+- Read 100- to 300-page documents and restructure them into executive-level summary materials that management can understand in five minutes.
+- Organize information into the structure of “Conclusion → Evidence → Implications,” leaving only the points necessary for decision-making.
+
+---
+
+#2 Creating Instruction Documents: Design and Guidance for Project Execution
+
+Consultants clearly document “what needs to be done, by when, and how” in order to move projects forward.
+
+## Specific Work Activities
+
+- Organize the client’s issues and define the desired future state, or To-Be state, using text and diagrams.
+- Conduct interviews to understand the current business process flow, or As-Is state, and visualize it while marking issues in red.
+- Analyze the gaps between the As-Is and To-Be states and organize the points for improvement in bullet points.
+- Create requirements definition documents, including functional and non-functional requirements, for system implementation or business process improvement.
+- Break down project tasks and list them as a WBS, or Work Breakdown Structure.
+- Organize stakeholder roles and clarify them in a RACI matrix, or responsibility assignment matrix.
+- Describe the tasks to be requested from client representatives in the format of “who does what by when” as a procedure manual.
+
+---
+
+#3 Creating Presentation Materials: Client Reporting and Proposals
+
+Because consultants’ deliverables are ultimately presented as slide decks, creating presentation materials is one of their most important tasks.
+
+## Specific Work Activities
+
+- Build a logical storyline based on research findings: introduction → analysis → implications → proposal.
+- Create slides for executives that are conclusion-first, with one message per slide.
+- Visualize data in graphs and clearly state the “So What” on each slide.
+- Translate improvement plans and strategic proposals into concrete execution steps, required resources, and estimated impact.
+- Adjust expressions, color schemes, and wording to match the characteristics of the client’s industry.
+- Before the presentation, prepare anticipated questions and draft answers, or Q&A materials, and review them within the team.
+- Practice the speaking order, key points to emphasize, and timing of slide transitions in preparation for the reporting meeting.

@@ -1,0 +1,13 @@
+baseline,term,coef,se(HC3),t,p
+BM,Intercept,0.1653,0.0296,5.577,0.0
+BM,"C(task, Treatment(reference=""summary""))[T.instruction]",-0.125,0.0459,-2.723,0.0065
+BM,"C(task, Treatment(reference=""summary""))[T.presentation]",-0.1405,0.048,-2.926,0.0034
+BM,importance,0.0199,0.0503,0.396,0.6918
+BM,"importance:C(task, Treatment(reference=""summary""))[T.instruction]",0.0916,0.0721,1.271,0.2037
+BM,"importance:C(task, Treatment(reference=""summary""))[T.presentation]",0.0719,0.0757,0.949,0.3427
+ref4,Intercept,-0.1029,0.0317,-3.241,0.0012
+ref4,"C(task, Treatment(reference=""summary""))[T.instruction]",-0.1439,0.0501,-2.872,0.0041
+ref4,"C(task, Treatment(reference=""summary""))[T.presentation]",-0.0204,0.0561,-0.363,0.7165
+ref4,importance,0.1795,0.0497,3.615,0.0003
+ref4,"importance:C(task, Treatment(reference=""summary""))[T.instruction]",0.0991,0.0737,1.345,0.1788
+ref4,"importance:C(task, Treatment(reference=""summary""))[T.presentation]",-0.1424,0.0819,-1.739,0.0821

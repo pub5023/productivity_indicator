@@ -1,0 +1,5 @@
+﻿baseline,weights,rank,summary_t_hat,instruction_t_hat,presentation_t_hat,summary_t_clip,instruction_t_clip,presentation_t_clip
+BM,time,3,0.8408,0.5127,0.4983,0.8408,0.5127,0.4983
+BM,importance,3,0.7499,0.5424,0.5483,0.7499,0.5424,0.5483
+ref4,time,3,0.8406,0.4309,1.1099,0.8406,0.4309,1.0
+ref4,importance,3,0.8396,0.525,1.0189,0.8396,0.525,1.0

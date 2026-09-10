@@ -1,0 +1,53 @@
+# Finance and Accounting Roles
+
+Characteristics: Their day-to-day work involves reviewing large volumes of receipts submitted by employees, checking and classifying whether they comply with internal policies, and approving and registering them in accounting systems, such as ERP systems.
+
+Examples:
+- Finance Manager
+- Accounting Staff
+- Expense Reimbursement Administrator
+- Corporate Finance Officer
+
+-----------------------
+
+# Key Tasks
+
+#1 Verification and Digitization of Supporting Documents: Receipt Processing and Information Extraction
+
+Accounting staff need to convert unstructured data submitted in various formats, such as paper receipts and receipt images, into accurate data that can be processed by systems.
+
+## Specific Work Activities
+
+- Check the visibility and readability of receipt images uploaded by employees, such as smartphone photos and scanned data.
+- Read key information from receipts, including vendor name, date, total amount, tax amount, and approval number.
+- Check line items on receipts one by one, including item names, quantities, and unit prices, and interpret handwritten or unclear characters.
+- Convert unstructured data, such as images, into structured data, such as text and numerical values, that can be entered into accounting systems.
+- Correct errors in information extracted by tools such as OCR and IDP, such as confusing “3” with “8.”
+
+---
+
+#2 Review of Policy Compliance and Account Classification: Policy Checks and Journal Entries
+
+Accounting staff strictly determine whether expenses violate company rules, or expense policies, and whether they are classified under the appropriate accounting accounts.
+
+## Specific Work Activities
+
+- Compare extracted items against the internal database to determine whether they are on the whitelist, or permitted list, or the blacklist, or prohibited list.
+- Identify inconsistencies between the declared account category and the actual content, such as an expense submitted as “supplies expense” that is actually coffee, which may fall under meeting expenses or entertainment expenses.
+- Determine, based on internal policies, whether purchased items are business-related or private purchases, such as gift cards or personal preference items.
+- When a new product or unfamiliar item name appears, such as “Simply Black,” research what it is and assign the appropriate account category.
+- If a suspected policy violation is found, send the application back to the requester or ask the requester for an explanation.
+
+---
+
+#3 Exception Handling and Final Approval: Decision-Making and System Registration
+
+For complex cases and exceptions that cannot be automated, accounting staff make final approvals based on human judgment and send finalized data to the ERP system.
+
+## Specific Work Activities
+
+- Manually review cases that AI or the system has marked as “unable to determine,” or exceptions, as well as cases with low confidence scores.
+- Check the account category recommended by AI and the rationale behind the recommendation, such as policy reference results, and determine whether it is appropriate.
+- When a new type of expense arises, feed the processing result back into the system through a human-in-the-loop process to support future automation.
+- Send and register approved data in ERP systems, or integrated core business systems, such as SAP.
+- Prepare for audits by ensuring the accuracy of the approval process and supporting documents, and by managing histories, or logs.

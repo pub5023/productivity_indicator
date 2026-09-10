@@ -1,0 +1,16 @@
+﻿model,Model Name,OpenLM Model,Arena Elo,AAII,MMLU-Pro,ARC-AGI
+gpt51T,GPT-5.1 Thinking,GPT-5.1-high,1464,70,87.1,17.6
+gpt52P,GPT-5.2 Pro,GPT-5.2-high,1465,72,87.4,43.3
+gpt52I,GPT-5.2 Instant,GPT-5.2,1464,68,87.4,26.7
+gpt52T,GPT-5.2 Thinking,GPT-5.2-high(substitute),1465,72,87.4,43.3
+sonnet46,Sonnet 4.6,Claude Sonnet 4.6,1446,65,87.3,37.6
+sonnet46T,Sonnet 4.6 Ext. Thinking,Claude Sonnet 4.6(substitute),1446,65,87.3,37.6
+opus46,Opus 4.6,Claude Opus 4.6,1490,71,89.5,64.6
+opus46T,Opus 4.6 Ext. Thinking,Claude Opus 4.6 Thinking,1503,73,89.7,69.2
+haiku45,Haiku 4.5,Claude Haiku 4.5,1378,42,80,-
+gpt35t,GPT-3.5-turbo-0125,GPT3.5-turbo-0613 ,1145,9,46.2,
+gpt4om,GPT-4o-mini-2024-07-18,gpt-4o-mini-2024-07-18 ,1289,22,64.8,
+gem2:9b,Gemma2-9b,gemma2-9b-it,1213,8,49.5,
+llama32:3b,Llama3.2-3b,llama3.2-3b-instruct,1118,5,34.7,
+mist:7b,Mistral-7b-inst-v02,Mistral-7B-Instruct-v0.2,1097,1,24.5,
+llama2:13b,Llama2-13b-chat,Llama-2-13b-chat,1093,6,40.6,

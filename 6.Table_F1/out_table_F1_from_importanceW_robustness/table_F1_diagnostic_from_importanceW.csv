@@ -1,0 +1,11 @@
+item,value
+n_observations,495
+n_models,15
+n_occupations,11
+n_tasks,3
+regression,task_error ~ C(segment) + C(task)
+reference_segment,A
+reference_task,instruction
+task_truth_summary,0.8407778154885285
+task_truth_instruction,0.512699552161761
+task_truth_presentation,0.4983328701102113

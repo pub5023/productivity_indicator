@@ -1,0 +1,7 @@
+﻿term,coef,p
+const,0.4427,0.0236
+segB,-0.3618,0.0933
+proxy_total,-0.0364,0.1573
+proxy_total:segB,0.0305,0.5194
+proxy_total:segC,-0.0642,0.6081
+segC,0.481,0.6856

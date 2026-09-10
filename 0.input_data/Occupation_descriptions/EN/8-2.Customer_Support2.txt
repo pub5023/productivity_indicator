@@ -1,0 +1,58 @@
+# Customer Support and Technical Support Roles  
+Restructured Version: Summarization → Instruction Documents → Material Creation
+
+Characteristics: Their day-to-day work involves organizing information based on customer inquiries, incident reports, and VOC, or Voice of Customer, visualizing the overall picture and key issues, standardizing operations from first-level response to escalation, and translating them into materials that fulfill accountability to both external customers and internal stakeholders.
+
+Examples:
+- Technical Support Agent
+- Help Desk Representative
+- Customer Success Representative
+- Chat Support Operator
+
+---
+
+# Key Tasks
+
+#1 Summarizing Inquiries and Logs and Structuring Issues: Structuring Incidents and FAQs
+
+Support professionals extract key issues such as common symptoms, reproduction conditions, scope of impact, temporary workarounds, and permanent countermeasures from customer interaction logs, including chat, email, and call notes, as well as incident reports, existing knowledge bases, and release notes. They then organize this information in a form that enables stakeholders to make decisions quickly.
+
+## Specific Work Activities
+
+- Break down inquiry content into “symptoms / environment / reproduction steps / frequency / scope of impact” and organize it clearly.
+- Classify possible causes based on error messages and log entries, and clarify key issues or unresolved points.
+- Refer to similar cases, such as past tickets and existing knowledge base articles, and summarize common patterns and differences.
+- Organize the conditions under which the issue occurs, such as version, permissions, settings, and network environment, and indicate whether it is reproducible.
+- Organize temporary workarounds and permanent response options, such as development fixes, operational improvements, and documentation revisions.
+- Remove or mask personal and confidential information, and format the content into a shareable summary.
+
+---
+
+#2 Creating Instruction Documents and Designing Operations: First-Level Response Flows, Templates, and Escalation Criteria
+
+To prevent inquiry handling from becoming dependent on individual operators, support professionals define diagnostic flows, interview questions, response templates, priority criteria, escalation conditions, and required evidence, such as logs, screenshots, and environment information, and prepare them in a form that can be operated consistently.
+
+## Specific Work Activities
+
+- Design first-level triage diagnostic flows by symptom, including the order of questions and branching logic.
+- Create checklists for required interview items, such as contract status, environment, reproduction steps, impact, and deadlines.
+- Develop response templates structured as “Conclusion → Steps → Notes → Next Actions,” and define expression rules, such as tone and prohibited wording.
+- Define SLA and severity, or priority, criteria, and clarify response deadlines and communication frequency.
+- Clarify escalation criteria, such as major incidents, suspected security issues, refunds or contract matters, and reputational risk, as well as escalation contacts.
+- Define requirements for necessary logs and evidence, including acquisition methods, storage locations, and templates, and standardize recording rules.
+- Organize responsibility boundaries with related departments, such as Development, Information Systems, Legal, and Sales, in a RACI-equivalent format.
+
+---
+
+#3 Creating and Explaining Materials: Customer Reports, Internal Improvement Proposals, and Quality Reports
+
+For important cases and trend analysis, support professionals create materials that explain the timeline, cause, countermeasures, and recurrence prevention measures for customers, and materials that support internal decision-making based on KPIs, VOC, and improvement priorities.
+
+## Specific Work Activities
+
+- For major incidents and critical inquiries, organize the timeline, cause, temporary response, and permanent countermeasures, and compile them into reports.
+- Create customer-facing materials that clearly explain the scope of impact, workarounds, estimated recovery timeline, and recurrence prevention measures.
+- Aggregate inquiry KPIs, such as first-contact resolution rate, reopen rate, average handling time, and CSAT, and organize trends and contributing factors.
+- Classify VOC, such as requests and complaints, and summarize them into proposal materials for product, documentation, and operational improvements.
+- Prepare anticipated Q&A, such as “Why did this happen?”, “Are recurrence prevention measures sufficient?”, “What is the customer impact?”, and “What are the future risks?”
+- Reflect reviews from related departments, such as Development, Customer Success, Sales, and Legal, and finalize the materials while reducing risks in external-facing wording.

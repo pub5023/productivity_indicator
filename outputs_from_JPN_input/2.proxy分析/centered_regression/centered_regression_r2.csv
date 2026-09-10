@@ -1,0 +1,6 @@
+spec,R2
+proxy_total only (no segment),0.0005
+proxy_total + segment,0.7018
+proxy_total_centered + segment,0.7018
+3 components centered + segment,0.745
+3 components uncentered + segment,0.745

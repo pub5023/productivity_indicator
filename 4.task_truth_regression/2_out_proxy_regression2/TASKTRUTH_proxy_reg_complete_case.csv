@@ -1,0 +1,7 @@
+﻿term,coef,p
+Intercept,0.4722,0.0
+C(task)[T.presentation],-0.0162,0.2454
+C(task)[T.summary],-0.2629,0.0
+C(segment)[T.B],-0.2458,0.0
+C(segment)[T.C],-0.1509,0.0
+proxy_total,-0.028,0.0

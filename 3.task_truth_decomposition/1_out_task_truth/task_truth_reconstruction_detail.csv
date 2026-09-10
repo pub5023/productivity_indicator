@@ -1,0 +1,45 @@
+﻿baseline,weights,occupation_id,occupation_name,TRUE,reconstructed,abs_error
+ref4,time,3,Project Manager ,0.85,0.64258,0.20742
+ref4,importance,8.2,Customer Support2,0.56,0.748344,0.188344
+ref4,importance,3,Project Manager ,0.85,0.669352,0.180648
+BM,importance,7,Finance / Accounting ,0.8,0.632516,0.167484
+ref4,time,8.2,Customer Support2,0.56,0.724508,0.164508
+ref4,importance,8,Customer Support ,0.56,0.717976,0.157976
+BM,time,7,Finance / Accounting ,0.8,0.657461,0.142539
+ref4,time,8,Customer Support ,0.56,0.680119,0.120119
+ref4,time,4,Editor / Writer ,0.91,0.790514,0.119486
+ref4,importance,4,Editor / Writer ,0.91,0.813735,0.096265
+ref4,time,6,Training Instructor,0.95,0.854288,0.095712
+BM,time,6,Training Instructor,0.665,0.569695,0.095305
+BM,time,4,Editor / Writer ,0.612,0.706673,0.094673
+ref4,time,1,Management Consultant ,0.835,0.740462,0.094538
+BM,importance,6,Training Instructor,0.665,0.573872,0.091128
+BM,importance,4,Editor / Writer ,0.612,0.698667,0.086667
+BM,time,8.2,Customer Support2,0.498415,0.584975,0.08656
+BM,importance,8.2,Customer Support2,0.498415,0.583191,0.084776
+ref4,time,7.2,Finance / Accounting2,0.8,0.721794,0.078206
+ref4,time,7,Finance / Accounting ,0.8,0.72906,0.07094
+ref4,importance,1,Management Consultant ,0.835,0.775054,0.059946
+BM,importance,8,Customer Support ,0.68,0.630755,0.049245
+BM,importance,2,Business Planning,0.519833,0.568405,0.048572
+BM,importance,2.2,Marketing,0.547333,0.595316,0.047983
+ref4,importance,6,Training Instructor,0.95,0.903896,0.046104
+ref4,importance,7,Finance / Accounting ,0.8,0.755336,0.044664
+ref4,importance,7.2,Finance / Accounting2,0.8,0.756355,0.043645
+BM,time,7.2,Finance / Accounting2,0.61635,0.576424,0.039926
+BM,time,2.2,Marketing,0.547333,0.586817,0.039484
+BM,time,8,Customer Support ,0.68,0.641776,0.038224
+BM,importance,1,Management Consultant ,0.542333,0.578649,0.036316
+BM,time,2,Business Planning,0.519833,0.554728,0.034895
+BM,time,5,Sales Assistant / Secretary ,0.5735,0.60825,0.03475
+BM,importance,7.2,Finance / Accounting2,0.61635,0.58491,0.03144
+BM,time,1,Management Consultant ,0.542333,0.572569,0.030235
+BM,importance,5,Sales Assistant / Secretary ,0.5735,0.598212,0.024712
+ref4,time,2.2,Marketing,0.87,0.846316,0.023684
+ref4,time,2,Business Planning,0.8,0.77689,0.02311
+ref4,importance,2,Business Planning,0.8,0.820202,0.020202
+ref4,importance,5,Sales Assistant / Secretary ,0.66,0.678133,0.018133
+ref4,importance,2.2,Marketing,0.87,0.884261,0.014261
+BM,importance,3,Project Manager ,0.546667,0.556939,0.010272
+ref4,time,5,Sales Assistant / Secretary ,0.66,0.667606,0.007606
+BM,time,3,Project Manager ,0.546667,0.541197,0.005469

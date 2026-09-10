@@ -1,0 +1,21 @@
+日本語ファイルで処理を行う場合には、プログラムコード内で以下のファイル名を書き換えてください。
+
+[元ファイル名] → [日本語ファイル名]
+
+Time_Weighted_Average_Data_L.csv → 時間加重平均データL.csv
+Time_Weighted_Average_Data_W.csv → 時間加重平均データW.csv
+Importance_Weighted_Average_Data_L.csv → 重要度加重平均データL.csv
+Importance_Weighted_Average_Data_W.csv → 重要度加重平均データW.csv
+
+*対象プログラムコード
+importance_regression.py
+segmented_regression.py
+proxy_new.py
+task_truth.py
+Figure_2_3.py
+task_truth_regression_fullcode.py
+figures.py
+model_errors.py
+proxy_regression2.py
+appendix_job_base.py
+task_vs_occ.py

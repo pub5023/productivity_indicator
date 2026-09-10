@@ -1,0 +1,59 @@
+# Training Instructor and Instructional Designer Roles
+
+Characteristics: Their day-to-day work involves summarizing training content, creating instructional material outlines, and preparing presentation materials for training programs.
+
+Examples:
+- Corporate Training Instructor
+- Instructional Designer
+- Internal Trainer
+- e-Learning Content Developer
+
+-----------------------
+
+# Key Tasks
+
+---
+
+#1 Article Summarization: Information Gathering and Input Organization
+
+Training instructors and instructional designers need to collect information related to training themes and restructure it into a form that participants can easily understand.
+
+## Specific Work Activities
+
+- Read industry news, specialized books, academic papers, research reports, and other materials; extract only the parts needed for the training theme; and summarize them into one to two pages.
+- Research other companies’ training cases and education trends, and organize success factors, improvement points, and applicable ideas.
+- Summarize data related to the training theme, such as market trends, behavioral characteristics, and statistics, in a concise format while visualizing them in graphs.
+- Read long documents of 100 to 200 pages and restructure them into key-point materials that can be incorporated into training slides.
+- Organize information into the structure of “Conclusion → Evidence → Implications for Learners,” leaving only the points that should be communicated in the training.
+
+---
+
+#2 Creating Instruction Documents: Design and Guidance for Training Design and Content Production
+
+Training instructors and instructional designers create training design documents, facilitation scripts, and production instructions to ensure smooth delivery of training programs.
+
+## Specific Work Activities
+
+- Organize the training purpose, goals, and target audience, and clarify them in text and diagrams as a training design document.
+- Conduct interviews to understand participants’ current skills and challenges, and create analysis materials that visualize learning gaps.
+- Design the training flow, such as introduction → lecture → exercise → reflection, and organize sections and time allocation as an outline.
+- Create content production instructions for slide creators and external instructors, including tone and manner, content scope, and exercise specifications.
+- Break down training preparation tasks and list schedules and owners as a WBS, or Work Breakdown Structure.
+- Organize the roles of related departments, such as HR, frontline managers, and instructors, and clarify responsibilities using a RACI matrix.
+- Describe same-day operational procedures, such as reception, handouts, and exercise preparation, in the format of “who does what by when” as a procedure manual.
+
+---
+
+#3 Creating Presentation Materials: Training Slides and Explanatory Materials
+
+Training instructors and instructional designers create presentation materials that help participants understand and learn effectively.
+
+## Specific Work Activities
+
+- Build a logical storyline based on the training background, objectives, and learning points: introduction → knowledge → exercise → summary.
+- Create slides for participants that are conclusion-first, with one message per slide.
+- Visualize data and concepts in diagrams, and clearly state the “So What,” or what matters most, on each slide.
+- Translate exercises and case studies into concrete procedures, objectives, and expected outcomes, organizing them in a form that is easy to practice.
+- Adjust expressions, color schemes, and wording to match participants’ skill levels and industry characteristics.
+- Before the training, prepare anticipated questions and draft answers, or Q&A materials, and review them among instructors.
+- Practice the speaking order, key points to emphasize, and timing of exercise facilitation in preparation for the live session.
